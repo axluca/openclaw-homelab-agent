@@ -121,6 +121,8 @@ services (nginx, SSL cert, auto-approve, FreePBX relay) are still intact.
 - [Part 2: Private networking with Headscale on a cloud VPS](#)
 - [Part 3: Self-hosted AI agent on your tailnet with OpenClaw](#)
 
+*(Links will be updated once articles are published on Medium)*
+
 ## License
 
 MIT
