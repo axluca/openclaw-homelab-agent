@@ -185,3 +185,9 @@ Three mini PCs at 16 GB gives you 48 GB total RAM across new nodes — enough to
 *GitHub: [axluca/openclaw-homelab-agent](https://github.com/axluca/openclaw-homelab-agent)*
 
 **Tags:** homelab, proxmox, self-hosted, mini-pc, virtualization, linux, infrastructure
+
+---
+
+## Header Image Prompt
+
+> A cinematic close-up of three identical small form-factor mini PCs stacked neatly on a wooden desk, glowing blue LEDs, connected by a thin ethernet switch. Soft ambient light, dark moody background, cable management visible. Style: high-end tech product photography, shallow depth of field, 16:9, ultra-detailed.

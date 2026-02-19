@@ -260,3 +260,9 @@ The tailnet becomes the backbone for everything else you build on top.
 ---
 
 **Tags:** self-hosted, vpn, headscale, tailscale, wireguard, homelab, docker, networking
+
+---
+
+## Header Image Prompt
+
+> A dark, sleek network topology visualization floating in 3D space: glowing nodes (laptop, server rack, NAS, phone) connected by pulsing neon-blue WireGuard tunnels, all converging on a central cloud server. Deep space background with subtle circuit board texture. Style: futuristic digital art, cyan and midnight blue palette, cinematic lighting, 16:9.

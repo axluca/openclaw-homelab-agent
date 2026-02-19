@@ -293,3 +293,9 @@ The code for everything in this article — `deploy.sh`, `docker-compose.yml`, t
 ---
 
 **Tags:** ai, self-hosted, homelab, docker, openclaw, freepbx, asterisk, llm, claude, infrastructure
+
+---
+
+## Header Image Prompt
+
+> A split composition: on the left, a minimalist server rack with a softly glowing Docker container icon; on the right, a ringing smartphone with a speech bubble showing a TTS waveform and a robot face. Connected by a glowing red wire crossing the center. Dark background, warm accent lighting. Style: modern tech editorial illustration, bold contrast, 16:9.
