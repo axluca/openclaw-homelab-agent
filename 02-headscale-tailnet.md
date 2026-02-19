@@ -207,19 +207,19 @@ The `extra_records` block in `config.yaml` lets you publish arbitrary A records 
 
 ```yaml
 extra_records:
-  - name: "akira.yourdomain.com"
+  - name: "your_agent_name.yourdomain.com"
     type: A
-    value: "100.64.0.9"
+    value: "100.64.0.10"
 ```
 
 After editing, restart Headscale (`docker compose restart headscale`) and the record resolves on every tailnet device:
 
 ```
-$ nslookup akira.yourdomain.com
+$ nslookup your_agent_name.yourdomain.com
 Server: 100.100.100.100
 Non-authoritative answer:
-Name: akira.yourdomain.com
-Address: 100.64.0.9
+Name: your_agent_name.yourdomain.com
+Address: 100.64.0.10
 ```
 
 This is how I make services accessible by domain name from any device on the mesh — without DNS servers, without split-horizon DNS, without touching my router. The `100.100.100.100` resolver is the Tailscale MagicDNS daemon running on each client.
